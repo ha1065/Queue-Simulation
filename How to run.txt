@@ -1,0 +1,5 @@
+In command line after compiling all java files type :
+
+java program customersfile.txt queriesfile.txt
+
+output.txt will be created in hw3 folder
